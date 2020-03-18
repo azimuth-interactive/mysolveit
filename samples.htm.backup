@@ -1,0 +1,370 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>My Solve IT</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="runningtext.css" rel="stylesheet" type="text/css">
+</head>
+
+<body bgcolor="#E2E8F1">
+<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" align="left" valign="top"><img src="images/stroke.gif" width="1" height="1"></td>
+  </tr>
+  <tr> 
+    <td width="31%" bgcolor="#EAEAEA"><div align="left"><img src="images/solveitart.gif" width="225" height="62"></div></td>
+    <td width="51%" bgcolor="#EAEAEA"><font color="033E6E" size="2" face="Arial, Helvetica, sans-serif"><strong>Management 
+      Problem Solving Using Excel, Access and the World Wide Web</strong></font></td>
+    <td width="18%" bgcolor="#EAEAEA"><div align="right"><font color="#0E74B1" size="3" face="Arial, Helvetica, sans-serif"><strong><a href="http://www.azimuth-interactive.com/"><img src="images/logo.gif" width="128" height="62" border="0"></a></strong></font></div></td>
+  </tr>
+  <tr align="left" valign="top" bgcolor="#CCCCCC"> 
+    <td colspan="3"><img src="images/stroke.gif" width="1" height="1"></td>
+  </tr>
+  <tr bgcolor="#CCCCCC"> 
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr valign="top" bgcolor="#CCCCCC"> 
+    <td height="1328" colspan="3"> 
+      <table width="97%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+        <tr> 
+          <td width="19%" height="979" align="left" valign="top"><br>
+            <table width="94%" height="175" border="0" cellpadding="0" cellspacing="0">
+              <tr> 
+                <td height="32" bgcolor="#E2E8F1">&nbsp;</td>
+                <td align="left" valign="middle" bgcolor="#E2E8F1"><font color="#0E74B1" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="index.htm" class="hidden">Home</a></font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td colspan="2"><img name="" src="" width="100%" height="1" alt=""></td>
+              </tr>
+              <tr> 
+                <td width="16%" bgcolor="#E2E8F1"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></td>
+                <td width="84%" align="left" valign="middle" bgcolor="#E2E8F1"><font color="#0E74B1" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="about.htm" class="hidden">About 
+                  Us</a></font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td colspan="2"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><img width="100%" height="1"></font></td>
+              </tr>
+              <tr> 
+                <td bgcolor="#E2E8F1"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></td>
+                <td align="left" valign="middle" bgcolor="#E2E8F1"><font color="#0E74B1" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="order.htm" class="hidden">Order 
+                  Books</a></font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td colspan="2"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><img width="100%" height="1"></font></td>
+              </tr>
+              <tr> 
+                <td bgcolor="#E2E8F1"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></td>
+                <td align="left" valign="middle" bgcolor="#E2E8F1"><font color="#0E74B1" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="samples.htm" class="hidden">View 
+                  Demos</a></font></td>
+              </tr>
+			  <tr align="left" valign="top"> 
+                <td colspan="2"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><img width="100%" height="1"></font></td>
+              </tr>
+              <tr> 
+                <td bgcolor="#E2E8F1"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></td>
+                <td align="left" valign="middle" bgcolor="#E2E8F1"><font color="#0E74B1" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="instructors.htm" class="hidden">Instructor's 
+                  Manual</a></font></td>
+              </tr>
+              <tr align="left" valign="top"> 
+                <td colspan="2"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><img width="100%" height="1"></font></td>
+              </tr>
+              <tr> 
+                <td bgcolor="#E2E8F1"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></td>
+                <td align="left" valign="middle" bgcolor="#E2E8F1" class="hidden"><font color="#0E74B1" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="guides.htm" class="hidden">Exam 
+                  copy</a></font></td>
+              </tr>
+			  <tr align="left" valign="top"> 
+                <td colspan="2"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><img width="100%" height="1"></font></td>
+              </tr>
+              <tr>
+                <td bgcolor="#E2E8F1">&nbsp;</td>
+                <td align="left" valign="middle" bgcolor="#E2E8F1"><font color="#0E74B1" size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="contact.htm" class="hidden">Contact 
+                  Us</a></font></td>
+              </tr>
+            </table> </td>
+          <td width="81%" rowspan="2" align="left" valign="top"> <p><span class="heading"><br>
+              </span></p>
+            <table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr> 
+                <td colspan="2" align="left" valign="top">
+                  <div align="center"><span class="heading">To obtain an evaluation 
+                    copy of Solve IT! call sales at 1-800 416-6786 or print the 
+                    PDF files below</span><br>
+                    <br>
+                  </div></td>
+              </tr>
+              <tr> 
+                <td height="1166" colspan="2" align="left" valign="top"> 
+                  <div align="center"></div>
+                  <div align="center"></div>
+                  <div align="left"> 
+                    <table width="98%" border="0" cellpadding="0" cellspacing="0">
+                      <tr> 
+                        <td align="left" valign="top"><a name=solveit40></a><img src="images/v40cover.gif" width="162" height="171"></td>
+                        <td> 
+                          <p><br>
+                            <span class="heading">Solve IT! for Windows<br>
+                            Version 4.0 for Office 2003</span><br>
+                            <br>
+                            <span class="runningtext"><br>
+                            Sample Cases:<br>
+                            <a href="images/pdfsamples/v40/SV40CH3Case3.pdf">Chapter 
+                            3: Case 3(Excel)</a><br>
+                            <a href="images/pdfsamples/v40/SV40CH5Case4.pdf">Chapter 
+                            5: Case 4(Access)<br>
+                            </a></span><br>
+                            <span class="runningtext"></span><span class="runningtext">Instructor 
+                            manual samples:<br>
+                            <a href="images/pdfsamples/v40/SolveIT40_Excel_Case3_IM.pdf">Excel 
+                            Solution Sample</a><br>
+                            <a href="images/pdfsamples/v40/SV_4.0_Database_Case_4_Demo_IM.pdf">Access 
+                            Solution Sample</a></span><br>
+                            <br>
+                            <span class="runningtext"><a href="images/pdfsamples/v40/SolveIT_40_demo_files_database.zip">Data 
+                            files for Case 3 (Excel)<br>
+                            Data files for Case 4 (Access)</a></span><span class="runningtext"><a href="images/pdfsamples/v40/SolveIT_40_demo_files.zip"></a></span> 
+                          </p>
+                          </td>
+                        <td>
+                          <p align="left"><span class="runningtext"><br>
+                            </span>You can review a sample Excel and Access case 
+                            by clicking on the blue highlighted cases in the Tables 
+                            of Content below. In order to view a sample case, 
+                            you will need a copy of Acrobat Reader. If you do 
+                            not have a copy of Acrobat, <a href="http://www.adobe.com/products/acrobat/readstep2_allversions.html">click 
+                            here</a>. </p>
+                          <p align="center"><a href="http://www.adobe.com/products/acrobat/readstep2_allversions.html"><img src="images/getacro.gif" width="88" height="31" border="0"></a><br>
+                          </p>
+                          <font color="#CC0000"><br>
+                          <br>
+                          </font><br>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td height="438" align="left" valign="top"> 
+                          <p class="heading">Table of Contents<br>
+                            Preface iv</p>
+                          <p class="runningtext"><strong>Chapter 1:</strong></p>
+                          <p><span class="runningtext">Introduction to Solve it!<br>
+                            Learn Through Discovery<br>
+                            Industry Standard<br>
+                            Classic Business Problems<br>
+                            WEB Exercises and Cases<br>
+                            Documentation Included<br>
+                            The Skills Matrix<br>
+                            How to Use Solve it!</span><br>
+                          </p>
+                          <p><span class="runningtext"><strong>Chapter 2:</strong></span><br>
+                            <br>
+                            <span class="runningtext">Introduction to Spreadsheet 
+                            Software<br>
+                            Introduction to Microsoft Excel <br>
+                            Spreadsheet Design Principles<br>
+                            </span><br>
+                            <br>
+                          </p>
+                          <p><br>
+                            <br>
+                          </p>
+                        </td>
+                        <td align="left" valign="top"> 
+                          <p><span class="runningtext"><strong>Chapter 3:</strong></span><br>
+                            <br>
+                            <span class="runningtext">Spreadsheet Management Software 
+                            Cases<br>
+                            Case 1: Supply Depot<br>
+                            Case 2: Sampson Clothiers<br>
+                            <a href="images/pdfsamples/v40/SV40CH3Case3.pdf">Case 
+                            3: The Confidential Executive Payroll</a><br>
+                            (<a href="images/pdfsamples/v40/SolveIT_40_demo_files.zip">data 
+                            files for this case</a>)<br>
+                            Case 4: Brooks Investment Advisers<br>
+                            Case 5: The Town of Madras <br>
+                            Case 6: Low-Carb Pastries, Inc.<br>
+                            Case 7: Pacific Condiments<br>
+                            Case 8: NAE Oregon, Inc.<br>
+                            Case 9: Reliable Storage <br>
+                            Case 10: Otis Lumber Company <br>
+                            Case 11: Desert Industries <br>
+                            Case 12: Troy Technology </span></p>
+                          <p class="runningtext"><strong>Chapter 4:</strong></p>
+                          <p> <span class="runningtext">Introduction to Database 
+                            Software <br>
+                            What Is a Database?<br>
+                            What Is a Database Management System?<br>
+                            Comparative Advantages of Database Packages<br>
+                            Windows-based Databases<br>
+                            Introducing Microsoft Access for Windows <br>
+                            Getting Started - Access2003 for Windows.</span><br>
+                            <br>
+                            <br>
+                          </p>
+                        </td>
+                        <td align="left" valign="top"> 
+                          <p class="runningtext"><strong>Chapter 5:</strong></p>
+                          <p> <span class="runningtext">Database Management Software 
+                            Cases <br>
+                            Case l: Finishing Touch Supplies Inc.<br>
+                            Case 2: James and Van Patten Attorneys-at-Law<br>
+                            Case 3: Edwards Furniture<br>
+                            <a href="images/pdfsamples/v40/SV40CH5Case4.pdf">Case 
+                            4: ValueRite Pharmacy</a><br>
+                            (<a href="images/pdfsamples/v40/SolveIT_40_demo_files_database.zip">data 
+                            files for this case</a>)<br>
+                            Case 5: Bridgehampton University<br>
+                            Case 6: Sound by Design I<br>
+                            Case 7: Davidson Contractors<br>
+                            Case 8: Hightower Rentals Inc.<br>
+                            Case 9: Tierra Del Mar Hotel<br>
+                            Case 10: Sound by Design II <br>
+                            Case 11: Montgomery Outfitters I <br>
+                            Case 12: Montgomery Outfitters II</span><br>
+                            <br>
+                            <span class="runningtext"><strong>Chapter 6:</strong></span></p>
+                          <p><span class="runningtext">Internet Business Cases 
+                            <br>
+                            Introduction to the Web Cases<br>
+                            Case 1: BestResults.com Web Portal Case 2: TrainOnline.com<br>
+                            Case 3: Innovative Benefit Programs<br>
+                            Case 4: Willamette Investments<br>
+                            Case 5: Proxis Corporation <br>
+                            Case 6: Sound By Design III <br>
+                            Case 7: Sustainable Consulting <br>
+                            Case 8: Northwest Import/Export <br>
+                            Case 9: Fairmount Industries<br>
+                            </span> </p>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td height="245" align="left" valign="top"><a name=solveit31></a><img src="images/v31cover.gif" width="146" height="180"></td>
+                        <td align="left" valign="top" class="runningtext"> 
+                          <p><strong><br>
+                            <br>
+                            <span class="heading"><br>
+                            Solve IT! for Windows<br>
+                            Version 3.1 for Office XP</span></strong><br>
+                            <br>
+                            <a href="images/pdfsamples/v31/solveit31_demofiles.zip">Download 
+                            Demo Data Files</a><br>
+                            <a href="images/pdfsamples/v31/solveit31_casefiles.zip">Download 
+                            Demo_Instructors_manual</a><br>
+                            <a href="images/pdfsamples/v31/SV31CH3Case3.pdf">Chapter 
+                            3: Case 3</a><br>
+                            <a href="images/pdfsamples/v31/SV31CH5Case4.pdf">Chapter 
+                            5: Case 4</a></p>
+                        </td>
+                        <td align="left" valign="top" class="runningtext"> 
+                          <div align="center"> 
+                            <p align="left"><span class="runningtext"><br>
+                              <br>
+                              <font color="#CC0000"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Order 
+                              Solve IT! For Windows now, <a href="http://mysolveit.com/order.htm">click 
+                              here</a> .</font></strong></font> <br>
+                              </span></p>
+                            </div>
+                        </td>
+                      </tr>
+                      <tr> 
+                        <td width="32%" height="210" align="left" valign="top" class="runningtext"> 
+                          <p><strong>Table of Contents<br>
+                            Preface iv<br>
+                            <br>
+                            Chapter 1: </strong><br>
+                            <br>
+                            Introduction to Solve it!<br>
+                            Learn Through Discovery<br>
+                            Industry Standard<br>
+                            Classic Business Problems<br>
+                            WEB Exercises and Cases<br>
+                            Documentation Included<br>
+                            The Skills Matrix<br>
+                            How to Use Solve it!<br>
+                            <br>
+                            <strong><br>
+                            <br>
+                            </strong><strong>Chapter 2:</strong><br>
+                            <br>
+                            Introduction to Spreadsheet Software<br>
+                            Introduction to Microsoft Excel <br>
+                            Spreadsheet Design Principles</p>
+                        </td>
+                        <td width="35%" align="left" valign="top" class="runningtext"> 
+                          <p><strong>Chapter 3</strong>:<br>
+                            <br>
+                            Spreadsheet Management Software Cases<br>
+                            Case 1: The Office Houses, Inc<br>
+                            Case 2: The Confidential Executive Payroll<br>
+                            <a href="images/pdfsamples/v31/SV31CH3Case3.pdf">Case 
+                            3: Camby Investment Advisers</a><br>
+                            Case 4: The Village of Peconic<br>
+                            Case 5: Low-Fat Pastries, Inc<br>
+                            Case 6: Helton Office Supply<br>
+                            Case 7: Exact Cartridges<br>
+                            Case 8: Martin Lumber Company<br>
+                            Case 9: Western Industries.<br>
+                            Case 10: Hellen Aerospace Products<br>
+                            <strong><br>
+                            </strong> <strong>Chapter 4</strong>:<br>
+                            <br>
+                            Introduction to Database Software <br>
+                            What Is a Database?<br>
+                            What Is a Database Management System?<br>
+                            Comparative Advantages of Database Packages<br>
+                            Windows-based Databases<br>
+                            Introducing Microsoft Access for Windows <br>
+                            Getting Started - Access2002 for Windows.<br>
+                            <br>
+                          </p>
+                        </td>
+                        <td width="32%" align="left" valign="top" class="runningtext"><strong> 
+                          </strong><strong>Chapter 5:</strong><br>
+                          <br>
+                          Database Management Software Cases <br>
+                          Case l: Hanover Refinishing Supplies Inc.<br>
+                          Case 2: Martin and Schofield Attorneys-as-law<br>
+                          Case 3: Norton Furniture<br>
+                          <a href="images/pdfsamples/v31/SV31CH5Case4.pdf">Case 
+                          4: Clifford's Pharmacy</a><br>
+                          Case 5: Waterford University<br>
+                          Case 6: Acoustic Designs I<br>
+                          Case 7: Kingsolver Contractors<br>
+                          Case 8: Hildebrand Rentals Inc.<br>
+                          Case 9: Buena Vista Hotel <br>
+                          Case 10: Acoustic Designs II<br>
+                          <br>
+                          <strong>Chapter 6:</strong><br>
+                          <br>
+                          Internet Business Cases <br>
+                          Introduction to the Web Cases<br>
+                          Case 1: FastSerch.com Web portal<br>
+                          Case 2: JobEden.com<br>
+                          Case 3: Comprehensive Benefits Services <br>
+                          Case 4: Acadia Investment Advisors<br>
+                          Case 5: Aperture Inc.<br>
+                          <br>
+                        </td>
+                      </tr>
+                      
+                     
+                    </table>
+                    
+                    </div></td>
+              </tr>
+            </table>
+            <p align="center"><br>
+            </p>
+            </td>
+        </tr>
+        <tr> 
+          <td height="251">&nbsp;</td>
+        </tr>
+      </table>
+      <div align="center"> 
+        <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> &copy;2005 
+          Azimuth Interactive, Inc. (800) 416-6786 ext 14. All rights reserved. 
+          </font></p>
+        </div></td>
+  </tr>
+</table>
+</body>
+</html>

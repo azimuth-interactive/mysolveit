@@ -1,0 +1,43 @@
+.runningtext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+}
+.heading {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #033E6E;
+}
+a:link {
+	color: #0000FF;
+}
+
+a:visited {
+  color: #3366FF;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a:active {
+	color: #FF0000;
+}
+
+a.hidden {
+  color: #000000;
+}
+
+a.hidden:visited {
+  color: #000000;
+}
+
+a.hidden:hover {
+	color: #0000CC;
+}
+
+a.hidden:active {
+  color: #000000;
+}
