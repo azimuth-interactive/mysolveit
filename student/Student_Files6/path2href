@@ -1,0 +1,8 @@
+do {
+$line=<>;
+chomp $line; 
+
+$line=~ s/^\.\///;
+print "<a href=Student_Files6/$line>$line</a><br>\n";
+} until (eof());
+
